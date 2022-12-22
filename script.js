@@ -125,3 +125,4 @@ Promise.all([recordVideoOne, recordVideoTwo, recordVideoThree]).then(
 		console.log(message);
 	}
 );
+let Video1 = 1;
